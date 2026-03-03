@@ -1,4 +1,4 @@
-![logo](https://github.com/aniketghodake10/aniketghodake10/blob/main/pyspark-databricks.png)
+![logo](https://github.com/aniketghodake10/aniketghodake10/blob/main/pyspark-databricks-crop.png)
 <h1 align="center">Hi 👋, I'm Aniket Ghodake</h1>
 <h4 align="center">I am a Data Engineer with 3+ years of experience in data ingestion, processing, and ETL development. Proficient in data engineering on Azure, with expertise in building scalable pipelines. Skilled in Azure Databricks, PySpark, Python, SQL, Delta Lake, Azure Data factory, and Azure storage and services, with a proven track record of improving performance and system efficiency. A Certified Data Engineer. I love learning and continuously improving my skills to stay up-to-date with the latest in the field.</h4>
 
